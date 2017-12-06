@@ -1,5 +1,13 @@
 body {
     
+    background-color:white;
+    height:250px;
+}
+
+.test {
+    
+    height:250px;
+    
     background-color:black;
-    height:500px;
+    
 }
